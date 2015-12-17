@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[meehancoaching]]></title>
-        <description><![CDATA[meehancoaching]]></description>
+        <title><![CDATA[Meehan Coaching]]></title>
+        <description><![CDATA[Meehan Coaching]]></description>
         <link>https://thegrid.ai/meehancoaching/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 01:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 14:50:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meehancoaching/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,13 +40,6 @@
             <link>https://thegrid.ai/meehancoaching/meet-phil/index.html</link>
             <guid isPermaLink="false">a21ee78f-d4eb-492c-97d8-54fd6e60e9ce</guid>
             <pubDate>Thu, 17 Dec 2015 00:31:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PARENT COACHING]]></title>
-            <description><![CDATA[<article><h1>PARENT COACHING</h1><p>"If you find that you hear yourself saying the same thing over an over, it’s time to try a different approach."</p></article>]]></description>
-            <link>https://thegrid.ai/meehancoaching/parent-coaching/index.html</link>
-            <guid isPermaLink="false">2c62a95c-43fe-4d3a-89b8-058902ed6865</guid>
-            <pubDate>Thu, 17 Dec 2015 00:30:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What Is Student Coaching?]]></title>
