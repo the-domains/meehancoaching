@@ -6,23 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T00:31:10.994Z'
-dateModified: '2015-12-17T00:19:40.278Z'
+datePublished: '2015-12-17T14:52:22.687Z'
+dateModified: '2015-12-17T01:06:22.738Z'
 title: Managing Overwhelm
 author: []
+sourcePath: _posts/2015-12-17-managing-overwhelm.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-17-managing-overwhelm.md
-published: true
 url: managing-overwhelm/index.html
 _type: Article
 
 ---
-Managing "Overwhelm"
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a0cc567-6c41-4478-912b-f875b884605f.JPG)
 
 According to scientists at the University of Southern California, we are exposed to five times more information as we were back in 1986 (1). True, there's a good chance that you weren't born in 1986, and even if you were, there's an even greater chance that you were not yet reading, but the point is that this feeling of being overwhelmed isn't about how people today can't deal: it's that we are exposed to the equivalent of 174 newspapers worth of information on a daily basis! That an incredible amount of processing that our brains need to do between waking up and going to sleep. Our brain works like a muscle, and when you exercise it (a lot) over the course of a day, a week, a year, it gets tired.
