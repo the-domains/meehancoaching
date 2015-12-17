@@ -1,29 +1,27 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-17T00:30:32.792Z'
-dateModified: '2015-12-17T00:27:25.758Z'
-title: What Is Student Coaching?
+datePublished: '2015-12-17T14:51:23.934Z'
+dateModified: '2015-12-17T01:24:59.993Z'
+title: Student Coaching
 author: []
+sourcePath: _posts/2015-12-17-what-is-student-coaching.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-17-what-is-student-coaching.md
-published: true
 url: what-is-student-coaching/index.html
-_type: Article
+_type: WebPage
 
 ---
-Student Coaching
-
 As a coach, my work with students begins with establishing a trusting relationship and the confidence that coaching will be worth the time. 
 
 I support students as they navigate the challenges of balancing academics and other expectations in their lives. My
