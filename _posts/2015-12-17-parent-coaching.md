@@ -1,30 +1,28 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-17T00:30:51.902Z'
-dateModified: '2015-12-17T00:28:40.597Z'
+datePublished: '2015-12-17T14:50:42.685Z'
+dateModified: '2015-12-17T01:28:23.838Z'
 title: Parent Coaching
 author: []
+sourcePath: _posts/2015-12-17-parent-coaching.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-17-parent-coaching.md
-published: true
 url: parent-coaching/index.html
-_type: Article
+_type: WebPage
 
 ---
 "If you find that you hear yourself saying the same thing over an over, it's time to try a different approach."
-
-### PARENT COACHING
 
 My role includes providing support and offering new perspectives. 
 
