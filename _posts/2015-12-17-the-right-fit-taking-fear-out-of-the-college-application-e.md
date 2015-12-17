@@ -6,23 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T00:31:56.464Z'
-dateModified: '2015-12-17T00:22:41.712Z'
+datePublished: '2015-12-17T14:52:12.588Z'
+dateModified: '2015-12-17T01:06:03.190Z'
 title: THE RIGHT FIT - TAKING FEAR OUT OF THE COLLEGE APPLICATION EQUATION
 author: []
+sourcePath: _posts/2015-12-17-the-right-fit-taking-fear-out-of-the-college-application-e.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-17-the-right-fit-taking-fear-out-of-the-college-application-e.md
-published: true
 url: the-right-fit-taking-fear-out-of-the-college-application-e/index.html
 _type: Article
 
 ---
-The Right Fit - Taking the Fear Out Of The College Application Equation
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bbd2b701-e6a0-497e-82ed-c1b4a2be4dd9.JPG)
 
 "If I just get into the XYZ College or ABC University, my life will be great." Ever heard this or felt this way? Underneath this statement lurks the thought process that "If I don't get into XYZ, life will be bad."  Fear has always been one of the most powerful motivating forces: Think
