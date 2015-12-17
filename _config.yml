@@ -1,0 +1,28 @@
+name: meehancoaching
+favicon: null
+layout_spectrum: 0.11323638050816953
+typography_spectrum: 0.37891183351166546
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7854883992113173
+  lightness: 0.12110051163472235
+  saturation: 0.9651111492421478
+  rhythmicContrast: 0.3636052936781198
+purpose: []
