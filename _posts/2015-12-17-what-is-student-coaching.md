@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-17T14:51:23.934Z'
-dateModified: '2015-12-17T01:24:59.993Z'
+datePublished: '2015-12-18T08:37:09.675Z'
+dateModified: '2015-12-18T08:36:35.030Z'
 title: Student Coaching
 author: []
 sourcePath: _posts/2015-12-17-what-is-student-coaching.md
