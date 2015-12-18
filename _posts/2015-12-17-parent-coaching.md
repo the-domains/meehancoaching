@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-17T14:50:42.685Z'
-dateModified: '2015-12-17T01:28:23.838Z'
+datePublished: '2015-12-18T08:37:29.911Z'
+dateModified: '2015-12-18T08:37:24.384Z'
 title: Parent Coaching
 author: []
 sourcePath: _posts/2015-12-17-parent-coaching.md
