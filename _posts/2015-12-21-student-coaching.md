@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-21T14:30:18.269Z'
-dateModified: '2015-12-21T14:25:40.362Z'
+datePublished: '2015-12-21T14:37:23.031Z'
+dateModified: '2015-12-21T14:36:19.171Z'
 title: Student Coaching
 author: []
 authors: []
@@ -22,6 +22,8 @@ url: student-coaching/index.html
 _type: WebPage
 
 ---
+# Student Coaching
+
 As a coach, my work with students begins with establishing a trusting relationship and the confidence that coaching will be worth the time. 
 
 I support students as they navigate the challenges of balancing academics and other expectations in their lives. My
