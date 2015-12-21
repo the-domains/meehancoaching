@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-21T14:37:23.031Z'
-dateModified: '2015-12-21T14:36:19.171Z'
+datePublished: '2015-12-21T15:33:21.073Z'
+dateModified: '2015-12-21T15:33:03.606Z'
 title: Student Coaching
 author: []
 authors: []
@@ -22,8 +22,6 @@ url: student-coaching/index.html
 _type: WebPage
 
 ---
-# Student Coaching
-
 As a coach, my work with students begins with establishing a trusting relationship and the confidence that coaching will be worth the time. 
 
 I support students as they navigate the challenges of balancing academics and other expectations in their lives. My
