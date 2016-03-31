@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-17T14:51:52.157Z'
-dateModified: '2015-12-17T01:06:10.604Z'
+description: '*This post originally appeared in the "meehanwellness.com" blog, November 2014.'
+datePublished: '2016-03-31T04:17:01.538Z'
+dateModified: '2016-03-31T03:26:15.184Z'
 title: How To Make Stress Work For You
 author: []
 sourcePath: _posts/2015-12-17-how-to-make-stress-work-for-you.md
@@ -22,7 +22,7 @@ url: how-to-make-stress-work-for-you/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30268f4a-3001-4bb0-82ae-5adcb6c4e616.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a910b1f1abe32531d55537c7efc5ea7ffed26aaa.jpg)
 
 First thing's first -- stress is not a bad thing. In fact, it is how we know we're alive. Stress is anything that shifts your balance. It is the excitement of a crush and it helps get things done when a deadline is looming. 
 
