@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-17T14:52:12.588Z'
-dateModified: '2015-12-17T01:06:03.190Z'
+description: "\"If I just get into the XYZ College or ABC University, my life will be great.\" Ever heard this or felt this way? Underneath this statement lurks the thought process that “If I don’t get into XYZ, life will be bad.” \_Fear has always been one of the most powerful motivating forces: Think"
+datePublished: '2016-03-31T04:16:41.789Z'
+dateModified: '2016-03-31T03:26:33.282Z'
 title: THE RIGHT FIT - TAKING FEAR OUT OF THE COLLEGE APPLICATION EQUATION
 author: []
 sourcePath: _posts/2015-12-17-the-right-fit-taking-fear-out-of-the-college-application-e.md
@@ -22,7 +22,7 @@ url: the-right-fit-taking-fear-out-of-the-college-application-e/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bbd2b701-e6a0-497e-82ed-c1b4a2be4dd9.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4b59b0e4882347edb86345712e3eaf03c68c38a.jpg)
 
 "If I just get into the XYZ College or ABC University, my life will be great." Ever heard this or felt this way? Underneath this statement lurks the thought process that "If I don't get into XYZ, life will be bad."  Fear has always been one of the most powerful motivating forces: Think
 
