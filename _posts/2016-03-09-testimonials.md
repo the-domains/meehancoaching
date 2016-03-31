@@ -3,21 +3,21 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-31T04:44:46.571Z'
-dateModified: '2016-03-31T03:23:56.893Z'
+datePublished: '2016-03-31T04:46:09.087Z'
+dateModified: '2016-03-31T04:45:49.225Z'
 title: Testimonials
 author: []
+sourcePath: _posts/2016-03-09-testimonials.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-testimonials.md
-published: true
 url: testimonials/index.html
 _type: WebPage
 
