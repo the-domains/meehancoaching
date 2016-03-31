@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-17T14:52:22.687Z'
-dateModified: '2015-12-17T01:06:22.738Z'
+description: 'According to scientists at the University of Southern California, we are exposed to five times more information as we were back in 1986 (1). True, there’s a good chance that you weren’t born in 1986, and even if you were, there’s an even greater chance that you were not yet reading, but the point is that this feeling of being overwhelmed isn’t about how people today can’t deal: it’s that we are exposed to the equivalent of 174 newspapers worth of information on a daily basis! That an incredible amount of processing that our brains need to do between waking up and going to sleep. Our brain works like a muscle, and when you exercise it (a lot) over the course of a day, a week, a year, it gets tired.'
+datePublished: '2016-03-31T04:17:19.724Z'
+dateModified: '2016-03-31T03:26:56.100Z'
 title: Managing Overwhelm
 author: []
 sourcePath: _posts/2015-12-17-managing-overwhelm.md
@@ -22,7 +22,7 @@ url: managing-overwhelm/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a0cc567-6c41-4478-912b-f875b884605f.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bde1088e7ccaac18b4094a3670bfdcad09feb7a2.jpg)
 
 According to scientists at the University of Southern California, we are exposed to five times more information as we were back in 1986 (1). True, there's a good chance that you weren't born in 1986, and even if you were, there's an even greater chance that you were not yet reading, but the point is that this feeling of being overwhelmed isn't about how people today can't deal: it's that we are exposed to the equivalent of 174 newspapers worth of information on a daily basis! That an incredible amount of processing that our brains need to do between waking up and going to sleep. Our brain works like a muscle, and when you exercise it (a lot) over the course of a day, a week, a year, it gets tired.
 
