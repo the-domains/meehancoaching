@@ -1,20 +1,4 @@
-name: meehancoaching
-favicon: null
-layout_spectrum: 0.76405
 typography_spectrum: 0.41382
-title: Meehan Coaching
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#1d9b91'
@@ -26,4 +10,24 @@ color:
   lightness: 0.5
   saturation: 0.5625
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.76405
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: meehancoaching
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Blog
+    id: 8ff20626-4fc9-487b-8253-43d5f3febbf3
+    type: content
+favicon: null
+title: Meehan Coaching
 purpose: []
