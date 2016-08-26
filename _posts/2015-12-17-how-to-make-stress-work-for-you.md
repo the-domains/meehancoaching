@@ -1,34 +1,32 @@
 ---
+datePublished: '2016-08-26T00:51:34.083Z'
+sourcePath: _posts/2015-12-17-how-to-make-stress-work-for-you.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: >-
-  *This post originally appeared in the "meehanwellness.com" blog, November
-  2014.
-datePublished: '2016-08-26T00:47:00.195Z'
-dateModified: '2016-08-26T00:46:58.527Z'
-title: ''
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2015-12-17-how-to-make-stress-work-for-you.md
-authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
 via: {}
+dateModified: '2016-08-26T00:51:33.149Z'
+title: ''
+publisher: {}
+description: Making Stress Work For You
+inLanguage: null
+inNav: false
 starred: false
 url: how-to-make-stress-work-for-you/index.html
 _type: Article
 
 ---
+Making Stress Work For You
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a910b1f1abe32531d55537c7efc5ea7ffed26aaa.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c5ee1de895f321b31a4b5daa06efacb927cd4ce.jpg)
 
-First thing's first -- stress is not a bad thing. In fact, it is how we know we're alive. Stress is anything that shifts your balance. It is the excitement of a crush and it helps get things done when a deadline is looming. 
+\*This post originally appeared in the "meehanwellness.com" blog, November 2014\.
+
+First thing's first -- stress is not a bad thing. In fact, it is how we know we're alive. Stress is anything that shifts your balance. It is the excitement of a crush and it helps get things done when a deadline is looming.
 
 For over a hundred years a simple way to see the relationship between stress and productivity has been the Yerkes Dodson curve (1). Think of an upside down U.
 
@@ -36,7 +34,7 @@ null
 
 On the left you have low stress and low productivity. On the right you have high stress and low productivity. In the middle, you have what some researchers call "flow", or the peak productivity. Can you remember a time when you were so completely immersed in something that you lost track of time? Maybe it was working with a group on a interesting art project, playing your favourite video game or programming? That's the top of the curve. Now, it might be hard to reach the top studying for your next test, but how can you ensure that you are not at either extreme: bored or burned-out?
 
-When I talk with people about stress, I often use the analogy of a bucket with a tap near the bottom. The bucket is your capacity to deal with stress. Your stress is what is filling the bucket and it can never be empty (because the tap isn't at the very bottom, and if you have no stress, you wouldn't be alive!). ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71fd8649-b406-40fc-ae75-564824a0f499.JPG)
+When I talk with people about stress, I often use the analogy of a bucket with a tap near the bottom. The bucket is your capacity to deal with stress. Your stress is what is filling the bucket and it can never be empty (because the tap isn't at the very bottom, and if you have no stress, you wouldn't be alive!).
 
 This is a simple exercise and can be really helpful to look back on when you find your bucket nearing the top...
 
@@ -64,7 +62,7 @@ As for FLOW, not many things that fall under "need to do" will get you into that
 
 * giving yourself a positive incentive to work towards once you have finished the task, like a piece of chocolate or 20 minutes of video games.
 * give yourself a consequence, like asking your little brother to come in when the timer goes off at the time you expect to be done and throw, I don't know, his dirty socks at you if you are still working on xyz. Ok, maybe that's just gross, but probably a good motivator. And imagine how excited he would be!
-* I'm sure you can come up something that would work for you... 
+* I'm sure you can come up something that would work for you...
 
 -Phil
 
@@ -75,8 +73,6 @@ Sources:
 (2) Henden, John. "Beating Combat Stress: 101 Techniques for Recovery." Wiley, Jan. 2011\.
 
 Stress Quiz from The Greater Good Science Centre: [http://greatergood.berkeley.edu/quizzes/take\_quiz/8][1]
-
-\*This post originally appeared in the "meehanwellness.com" blog, November 2014\.
 
 [0]: http://www.psychologytoday.com/blog/the-brain-and-emotional-intelligence/201203/the-sweet-spot-achievement
 [1]: http://greatergood.berkeley.edu/quizzes/take_quiz/8
