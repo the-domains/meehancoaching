@@ -3,21 +3,25 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: '*This post originally appeared in the "meehanwellness.com" blog, November 2014.'
-datePublished: '2016-03-31T04:17:01.538Z'
-dateModified: '2016-03-31T03:26:15.184Z'
-title: How To Make Stress Work For You
-author: []
+description: >-
+  *This post originally appeared in the "meehanwellness.com" blog, November
+  2014.
+datePublished: '2016-08-26T00:47:00.195Z'
+dateModified: '2016-08-26T00:46:58.527Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2015-12-17-how-to-make-stress-work-for-you.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: how-to-make-stress-work-for-you/index.html
 _type: Article
 
