@@ -1,4 +1,24 @@
+name: meehancoaching
+favicon: null
+layout_spectrum: 1
 typography_spectrum: 0.41382
+navigation:
+  - name: THE RIGHT FIT - TAKING FEAR OUT OF THE COLLEGE APPLICATION EQUATION
+    id: 76ca1af9-6b9c-4fb7-82e1-ce474745817c
+    type: content
+title: Meehan Coaching
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#1d9b91'
@@ -6,28 +26,8 @@ color:
     - '#008080'
     - '#15958a'
     - '#005555'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5625
   rhythmicContrast: 0.5
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.76405
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: meehancoaching
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: THE RIGHT FIT - TAKING FEAR OUT OF THE COLLEGE APPLICATION EQUATION
-    id: 76ca1af9-6b9c-4fb7-82e1-ce474745817c
-    type: content
-favicon: null
-title: Meehan Coaching
 purpose: []
