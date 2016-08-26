@@ -3,21 +3,24 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: "\"If I just get into the XYZ College or ABC University, my life will be great.\" Ever heard this or felt this way? Underneath this statement lurks the thought process that “If I don’t get into XYZ, life will be bad.” \_Fear has always been one of the most powerful motivating forces: Think"
-datePublished: '2016-03-31T04:16:41.789Z'
-dateModified: '2016-03-31T03:26:33.282Z'
-title: THE RIGHT FIT - TAKING FEAR OUT OF THE COLLEGE APPLICATION EQUATION
-author: []
-sourcePath: _posts/2015-12-17-the-right-fit-taking-fear-out-of-the-college-application-e.md
-published: true
+datePublished: '2016-08-26T00:47:26.116Z'
+dateModified: '2016-08-26T00:47:25.370Z'
+title: ''
+author:
+  - name: ''
+    url: ''
+sourcePath: >-
+  _posts/2015-12-17-the-right-fit-taking-fear-out-of-the-college-application-e.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: the-right-fit-taking-fear-out-of-the-college-application-e/index.html
 _type: Article
 
