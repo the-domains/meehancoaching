@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Blog
-    id: 8ff20626-4fc9-487b-8253-43d5f3febbf3
-    type: content
   - name: THE RIGHT FIT - TAKING FEAR OUT OF THE COLLEGE APPLICATION EQUATION
     id: 76ca1af9-6b9c-4fb7-82e1-ce474745817c
     type: content
